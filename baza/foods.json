@@ -1,0 +1,322 @@
+[
+  {
+    "id": 0,
+    "category_id": 14,
+    "collection_id": 2,
+    "name": "Breakfast Tacos",
+    "uzname": "Nonushta uchun taco",
+    "img": "/assets/images/foods/breakfast/breakfast-tacos.png"
+  },
+  {
+    "id": 1,
+    "category_id": 14,
+    "collection_id": 2,
+    "name": "French Toast",
+    "uzname": "Fransuz qovurilgan noni",
+    "img": "/assets/images/foods/breakfast/french-toast.png"
+  },
+  {
+    "id": 2,
+    "category_id": 10,
+    "collection_id": 2,
+    "name": "Insanity Burger",
+    "uzname": "Aql bovar qilmas Burger",
+    "img": "/assets/images/foods/burger/insanity-burger.jpg"
+  },
+  {
+    "id": 3,
+    "category_id": 10,
+    "collection_id": 2,
+    "name": "Spicy Tarian",
+    "uzname": "Achchiq Tarian",
+    "img": "/assets/images/foods/burger/spicy tarian.jpg"
+  },
+  {
+    "id": 4,
+    "category_id": 8,
+    "collection_id": 1,
+    "name": "Chocolate Cake",
+    "uzname": "Shokoladli tort",
+    "img": "/assets/images/foods/cake/Chocolate-cake.jpg"
+  },
+  {
+    "id": 5,
+    "category_id": 8,
+    "collection_id": 1,
+    "name": "Funfetti Cake",
+    "uzname": "Funfetti torti",
+    "img": "/assets/images/foods/cake/Funfetti-cake.png"
+  },
+  {
+    "id": 6,
+    "category_id": 4,
+    "collection_id": 0,
+    "name": "Fennel Roasted Chicken",
+    "uzname": "Fennel qovurilgan tovug'i",
+    "img": "/assets/images/foods/chicken/fennel-roasted-chicken.jpg"
+  },
+  {
+    "id": 7,
+    "category_id": 4,
+    "collection_id": 0,
+    "name": "Gojuchang Chicken",
+    "uzname": "Gojuchang tovug'i",
+    "img": "/assets/images/foods/chicken/Gojuchang-Chicken.png"
+  },
+  {
+    "id": 8,
+    "category_id": 12,
+    "collection_id": 1,
+    "name": "Caramel Topped Ice Cream Dessert",
+    "uzname": "Karamelli muzqaymoqli shirinlik",
+    "img": "/assets/images/foods/dessert/caramel-topped-ice-cream-dessert.jpg"
+  },
+  {
+    "id": 9,
+    "category_id": 12,
+    "collection_id": 1,
+    "name": "Chocolate Oreo Parfait",
+    "uzname": "Shokoladli mukammal Oreo",
+    "img": "/assets/images/foods/dessert/chocolate-oreo-parfait.png"
+  },
+  {
+    "id": 10,
+    "category_id": 19,
+    "collection_id": null,
+    "name": "A Bowl of Chicken Buffalo Dip",
+    "uzname": "Bir piyola tovuq go'shti sousi",
+    "img": "/assets/images/foods/dips/A-Bowl-of-Chicken-Buffalo-Dip.jpg"
+  },
+  {
+    "id": 11,
+    "category_id": 19,
+    "collection_id": null,
+    "name": "Creamy Feta Dip",
+    "uzname": "Kremli Feta Sousi",
+    "img": "/assets/images/foods/dips/Creamy-Feta-Dip.jpg"
+  },
+  {
+    "id": 12,
+    "category_id": 3,
+    "collection_id": 0,
+    "name": "Rib Eye Steak",
+    "uzname": "Qovurg'a ko'zlari lahm go'shti",
+    "img": "/assets/images/foods/meat/rib-eye-steak.jpg"
+  },
+  {
+    "id": 13,
+    "category_id": 3,
+    "collection_id": 0,
+    "name": "Seven Spice Grilled Lamb Chops",
+    "uzname": "Yetti ziravorli qo'zichoq go'shti",
+    "img": "/assets/images/foods/meat/seven-spice-grilled-lamb-chops.png"
+  },
+  {
+    "id": 14,
+    "category_id": 5,
+    "collection_id": 2,
+    "name": "Romaine Salad",
+    "uzname": "Romeyn bargi salati",
+    "img": "/assets/images/foods/min30/Romaine salad.jpg"
+  },
+  {
+    "id": 15,
+    "category_id": 5,
+    "collection_id": 2,
+    "name": "Spaghetti Sausage Meatballs",
+    "uzname": "Kolbasa go'shti do'lmali Spagettisi",
+    "img": "/assets/images/foods/min30/spaghetti-sausage-meatballs.jpg"
+  },
+  {
+    "id": 16,
+    "category_id": 2,
+    "collection_id": 1,
+    "name": "Apam Balik",
+    "uzname": "Apam Balik shirinligi",
+    "img": "/assets/images/foods/pancakes/Apam Balik.jpg"
+  },
+  {
+    "id": 17,
+    "category_id": 2,
+    "collection_id": 1,
+    "name": "Baghrir",
+    "uzname": "Bag'rir shirinligi",
+    "img": "/assets/images/foods/pancakes/baghrir.jpg"
+  },
+  {
+    "id": 18,
+    "category_id": 6,
+    "collection_id": 2,
+    "name": "Cream Tomato Rigatoni",
+    "uzname": "Kremli pomidorli Rigatoni",
+    "img": "/assets/images/foods/pasta/cream-tomato-rigatoni.jpg"
+  },
+  {
+    "id": 19,
+    "category_id": 6,
+    "collection_id": 2,
+    "name": "Masala Macaroni",
+    "uzname": "Masala makaroni",
+    "img": "/assets/images/foods/pasta/masala macaroni.jpg"
+  },
+  {
+    "id": 20,
+    "category_id": 9,
+    "collection_id": 1,
+    "name": "Ham, Cheese and Spinach Puff Pastries",
+    "uzname": "Nonushta uchun taco",
+    "img": "/assets/images/foods/pastries/ham, cheese and spinach puff pastries.jpg"
+  },
+  {
+    "id": 21,
+    "category_id": 9,
+    "collection_id": 1,
+    "name": "White Chocolate Mousse Pastries",
+    "uzname": "Oq Shokoladli Mouz pishiriqlari",
+    "img": "/assets/images/foods/pastries/white chocolate mousse pastries.jpg"
+  },
+  {
+    "id": 22,
+    "category_id": 7,
+    "collection_id": 5,
+    "name": "Pizza Crust Without Yeast",
+    "uzname": "Xamirturushsiz Pitsa Qobiqlari",
+    "img": "/assets/images/foods/pizza/Pizza-Crust-without-yeast.png"
+  },
+  {
+    "id": 23,
+    "category_id": 7,
+    "collection_id": 5,
+    "name": "Pizza from Scratch",
+    "uzname": "Noldan boshlab Pitsa",
+    "img": "/assets/images/foods/pizza/Pizza-from-Scratch.jpg"
+  },
+  {
+    "id": 24,
+    "category_id": 18,
+    "collection_id": 2,
+    "name": "Chicken Ramen",
+    "uzname": "Tovuq go'shtli Lapsha",
+    "img": "/assets/images/foods/ramen/Chicken-Ramen.jpg"
+  },
+  {
+    "id": 25,
+    "category_id": 18,
+    "collection_id": 2,
+    "name": "Shoyu Ramen",
+    "uzname": "Shoyu sousi qo'shilgan Lapsha",
+    "img": "/assets/images/foods/ramen/shoyu-ramen.jpg"
+  },
+  {
+    "id": 26,
+    "category_id": 15,
+    "collection_id": 2,
+    "name": "Big Italian Salad",
+    "uzname": "Katta Italliancha salat",
+    "img": "/assets/images/foods/salad/Big-Italian-Salad.jpg"
+  },
+  {
+    "id": 27,
+    "category_id": 15,
+    "collection_id": 2,
+    "name": "Greek Salad",
+    "uzname": "Grekcha salat",
+    "img": "/assets/images/foods/salad/greek-salad.jpg"
+  },
+  {
+    "id": 28,
+    "category_id": 16,
+    "collection_id": 2,
+    "name": "Club Sandwich",
+    "uzname": "Klub sendvichi",
+    "img": "/assets/images/foods/sandwiches/club-sandwich.png"
+  },
+  {
+    "id": 29,
+    "category_id": 16,
+    "collection_id": 2,
+    "name": "Inkigayo Sandwich",
+    "uzname": "Siyoh Tundir Sendvichi",
+    "img": "/assets/images/foods/sandwiches/Inkigayo-sandwich.jpeg"
+  },
+  {
+    "id": 30,
+    "category_id": 0,
+    "collection_id": 4,
+    "name": "Sashimi",
+    "uzname": "Sashimi",
+    "img": "/assets/images/foods/seafood/sashimi.png"
+  },
+  {
+    "id": 31,
+    "category_id": 0,
+    "collection_id": 4,
+    "name": "Seared Scallops",
+    "uzname": "Qovurilgan taroqlar",
+    "img": "/assets/images/foods/seafood/seared scallops.png"
+  },
+  {
+    "id": 32,
+    "category_id": 13,
+    "collection_id": 3,
+    "name": "Banana Smoothie",
+    "uzname": "Bananli Kokteyl",
+    "img": "/assets/images/foods/smoothies/banana-smoothie.jpg"
+  },
+  {
+    "id": 33,
+    "category_id": 13,
+    "collection_id": 3,
+    "name": "blueberry Smoothie",
+    "uzname": "Chernika Kokteyli",
+    "img": "/assets/images/foods/smoothies/blueberry-smoothie.jpg"
+  },
+  {
+    "id": 34,
+    "category_id": 1,
+    "collection_id": null,
+    "name": "Blue Crab Bisque",
+    "uzname": "Moviy Qisqichbaqa pechenesi",
+    "img": "/assets/images/foods/soup/blue crab bisque.jpeg"
+  },
+  {
+    "id": 35,
+    "category_id": 1,
+    "collection_id": null,
+    "name": "Tomato Consomme",
+    "uzname": "Pomidorli Konsomme",
+    "img": "/assets/images/foods/soup/tomato consomme.jpg"
+  },
+  {
+    "id": 36,
+    "category_id": 11,
+    "collection_id": 4,
+    "name": "Sweet and Sour Chickpeas",
+    "uzname": "Shirin va Nordon No'xat",
+    "img": "/assets/images/foods/vegan/Sweet-and-Sour-Chickpeas.jpg"
+  },
+  {
+    "id": 37,
+    "category_id": 11,
+    "collection_id": 4,
+    "name": "Vegan Jambalaya",
+    "uzname": "Vegetariancha Jambalaya",
+    "img": "/assets/images/foods/vegan/Vegan-Jambalaya.jpg"
+  },
+  {
+    "id": 38,
+    "category_id": 1,
+    "collection_id": null,
+    "name": "Belgian Style Waffles",
+    "uzname": "Belgiya uslubidagi Vaflilar",
+    "img": "/assets/images/foods/waffles/belgian-style-waffles.jpg"
+  },
+  {
+    "id": 39,
+    "category_id": 1,
+    "collection_id": null,
+    "name": "Buttermilk Waffles",
+    "uzname": "Ayronli Vaflilar",
+    "img": "/assets/images/foods/waffles/buttermilk-waffles.jpg"
+  }
+]

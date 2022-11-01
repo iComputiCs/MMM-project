@@ -1,0 +1,67 @@
+[
+  {
+    "id": 0,
+    "food_id": 38,
+    "date": "2022, 10, 5",
+    "stars": 5,
+    "chef_id": 4,
+    "y_video": "https://www.youtube.com/embed/UtZwFq6ncoU",
+    "stats": "90% odam buni takrorlashni xohlab qoladi",
+    "tayyorlash_vaqti": 18,
+    "tiny_info": "Belgiya gofreti klassik vafliga o'xshaydi, faqat Belgiya vafli mashinasida tayyorlangani uchun cho'ntaklari chuqurroqdir. Belgiya gofreti ham ichkarida juda yengil va havodor. An'anaga ko'ra, bu ularning xamirturush bilan tayyorlanishi bilan bog'liq edi. Umuman olganda, bugungi kunda ular mening retseptimdagi kabi pishirish kukuni bilan tayyorlanadi. Vafli engil bo'lishi uchun biz tuxum oqini sarig'idan alohida uramiz, so'ng ularni oxirida xamirga soling.",
+    "ingredients": [
+      "2 ¼ stakan barcha maqsadli un",
+      "1 osh qoshiq pishirish kukuni",
+      "3 osh qoshiq shakar",
+      "½ choy qoshiq tuz",
+      "1 choy qoshiq dolchin",
+      "2 ta katta tuxum ajratilgan",
+      "½ stakan o'simlik yog'i",
+      "2 stakan sut",
+      "1 choy qoshiq vanil ekstrakti"
+    ],
+    "retsept": [
+      "Gofretli dazmolni oldindan qizdiring, yopishmaydigan pishirish spreyi bilan seping va bir chetga qo'ying.",
+      "Katta idishda un, pishirish kukuni, shakar, tuz va doljinni aralashtiring.",
+      "O'rta idishda tuxum oqini qo'l mikser bilan qattiq cho'qqilar hosil bo'lguncha uring. Bir chetga qo'ying.",
+      "Alohida o'rta idishda tuxum sarig'i, o'simlik yog'i, sut va vanil ekstrakti aralashtiriladi.",
+      "Quruq ingredientlarga tuxum sarig'i aralashmasini qo'shing va yaxshilab aralashtiring.",
+      "Tuxum oqini soling.",
+      "Xamirni issiq vafli dazmolga quying va ishlab chiqaruvchining ko'rsatmalariga muvofiq pishiring**",
+      "Darhol sariyog ', sirop, shakar kukuni yoki boshqa sevimli qo'shimchalar bilan xizmat qiling."
+    ],
+    "conclusion": "Ushbu uy qurilishi Belgiya vafli retsepti oson va mazali, haqiqiy Belgiya vaflilarini tayyorlaydi! Bu gofretlar tashqi ko'rinishida juda tiniq va oltin rangga ega, ichki tomondan esa engil va yumshoq!"
+  },
+  {
+    "id": 1,
+    "food_id": 39,
+    "date": "2022, 10, 4",
+    "stars": 4,
+    "chef_id": 2,
+    "y_video": "https://www.youtube.com/embed/g162z5nB2uY",
+    "stats": "65% odam buni takrorlashni xohlab qoladi",
+    "tayyorlash_vaqti": 15,
+    "tiny_info": "Ushbu retseptni yaratishda biz juda ko'p turli xil usullarni sinab ko'rdik - tuxum oqi, sut, ayron va xamirturushli hamir. Ammo so'nggida, siz uchun tayyorlaganimiz bizning eng sevimligimizga aylandi. Sinov oshxonasida kimdir bu ular yegan eng yaxshi vafli ekanligini aytgan! Sariyog' suti vaflini juda yengil, ko'p miqdordagi sariyog' tashqi ko'rinishini o'ta tiniq va ichki qismini yumshoq qiladi. Nihoyat, biz shakarni minimal darajada ushlab turamiz va chinor siropi, rezavorlar yoki murabbo kabi shirin qo'shimchalar bilan mukammal holatga keltiramiz!",
+    "ingredients": [
+      "1 3/4 chashka universal un (Oshpazning eslatmasiga qarang)",
+      "2 osh qoshiq donador shakar",
+      "1 3/4 choy qoshiq pishirish kukuni",
+      "1/4 choy qoshiq pishirish soda",
+      "1/4 choy qoshiq kosher tuzi",
+      "1 3/4 chashka yaxshilab chayqatilgan sariyog '",
+      "2 ta katta tuxum",
+      "2 choy qoshiq vanil ekstrakti",
+      "1 ta tuzsiz sariyog ', eritilgan va ozgina sovutilgan",
+      "Yopishmaydigan pishirish spreyi",
+      "Xizmat qilish uchun chinor siropi, murabbo, rezavorlar yoki yogurt"
+    ],
+    "retsept": [
+      "Vafli temirni o'rtacha darajaga oldindan qizdiring.",
+      "Katta idishda un, shakar, pishirish kukuni, soda va tuzni aralashtiring.",
+      "O'rtacha idishda sariyog ', tuxum va vanilni aralashtiramiz. Yog 'sut aralashmasini un aralashmasiga xamir hosil bo'lguncha ko'pirtiring. Sariyog'ni aralashtirmaguncha ko'pirtiring, xamirni ortiqcha aralashtirmaslik uchun ehtiyot bo'ling.",
+      "Oldindan qizdirilgan gofretli dazmolning har ikki tomoniga yopishmaydigan pishirish spreyi seping. Dazmolning sirtini engil qoplash uchun etarlicha xamirni quying, uning hajmiga qarab taxminan 1/3 dan 3/4 chashka. (Qopqoq yopilgandan keyin xamir yoyishini hisobga oling.) Dazmolni yoping va gofretlar quyuq oltin jigarrang va bir oz tiniq bo'lguncha, taxminan 5 daqiqa davomida pishiring. Qolgan xamir bilan takrorlang. (Agar gofret dazmolining yaxshi ishlangan yoki yopishmaydigan yuzasi bo'lsa, uni har bir partiya orasiga purkash kerak bo'lmasligi mumkin.)",
+      "Vaflilarni sariyog ', sirop, murabbo, rezavorlar yoki yogurt bilan darhol xizmat qiling."
+    ],
+    "conclusion": "Unni o'lchaganimizda, biz uni quruq o'lchov idishiga solib, ortiqcha miqdorini tekislaymiz. (To'g'ridan-to'g'ri sumkadan olib tashlash unni siqadi, natijada quruq non mahsulotlari paydo bo'ladi.)"
+  }
+]

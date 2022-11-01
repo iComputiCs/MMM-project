@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "Go'shtli taomlar dasturxoni<br>(っˆڡˆς)🍖",
+    "img": "/assets/images/collections/meat.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Ko'z to'yguncha shirinliklar<br>🍪ԅ( ͒ ۝ ͒ )",
+    "img": "/assets/images/collections/pastries.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Tez tayyorlaymiz, shoshilib yeymiz<br>🍟ԅ( ˘ω ˘ ԅ)",
+    "img": "/assets/images/collections/fastfood.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Shirali ichimliklar<br>(｡•́ ₃ •̀ ) ☕",
+    "img": "/assets/images/collections/smoothies.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Foydali mahsulotlar aralashmasi<br>🥦🏃",
+    "img": "/assets/images/collections/vegan.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Hamrli ovqatlarga o'ralashib qolamiz<br>🍜-(-‿- )",
+    "img": "/assets/images/collections/pasta.jpg"
+  }
+]

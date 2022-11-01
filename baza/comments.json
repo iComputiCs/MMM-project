@@ -1,0 +1,31 @@
+[
+  {
+    "food_id": 39,
+    "content": [
+      {
+        "name": "Ilyosbek",
+        "text": "Qoyil, shirin narsekan, pishirib ko'rdim. Zo'r!",
+        "reply": [
+          {
+            "name": "Komiljon",
+            "text": "To'g'ri, zo'rakan. Manam pishirib ko'rdim."
+          },
+          {
+            "name": "Dilyora",
+            "text": "Man kuydirvorippaaan 😭"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "food_id": 38,
+    "content": [
+      {
+        "name": "Ilhomjon",
+        "text": "Yomon mas, 4.5/5",
+        "reply": []
+      }
+    ]
+  }
+]

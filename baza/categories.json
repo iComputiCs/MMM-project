@@ -1,0 +1,122 @@
+[
+  {
+    "id": 0,
+    "name": "Seafood",
+    "uzname": "Dengiz taomi",
+    "img": "/assets/images/categories/seafood.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Soup",
+    "uzname": "Sho'rva",
+    "img": "/assets/images/categories/soup.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Pancakes",
+    "uzname": "Blinchik",
+    "img": "/assets/images/categories/pancakes.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Meat",
+    "uzname": "Go'shtli ovqatlar",
+    "img": "/assets/images/categories/meat.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Chicken",
+    "uzname": "Tovuq go'shti",
+    "img": "/assets/images/categories/chicken.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Less than 30 min",
+    "uzname": "30 daqiqadan kam vaqtda",
+    "img": "/assets/images/categories/less than 30 min.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Pasta",
+    "uzname": "Lag'mon & Makaron",
+    "img": "/assets/images/categories/pasta.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Pizza",
+    "uzname": "Pitsa",
+    "img": "/assets/images/categories/pizza.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Cake",
+    "uzname": "Tort",
+    "img": "/assets/images/categories/cake.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Pastries",
+    "uzname": "Pishiriq",
+    "img": "/assets/images/categories/pastries.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Burger",
+    "uzname": "Burger",
+    "img": "/assets/images/categories/burger.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Vegan",
+    "uzname": "Vigitariancha",
+    "img": "/assets/images/categories/vegan.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Dessert",
+    "uzname": "Disert",
+    "img": "/assets/images/categories/desserts.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Smoothies",
+    "uzname": "Kokteyl",
+    "img": "/assets/images/categories/smoothie.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Breakfast",
+    "uzname": "Nonushta",
+    "img": "/assets/images/categories/breakfast.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Salad",
+    "uzname": "Salat",
+    "img": "/assets/images/categories/salad.jpg"
+  },
+  {
+    "id": 16,
+    "name": "Sandwiches",
+    "uzname": "Sendvichlar",
+    "img": "/assets/images/categories/sandwiches.jpg"
+  },
+  {
+    "id": 17,
+    "name": "Waffles",
+    "uzname": "Vaflilar",
+    "img": "/assets/images/categories/waffles.jpg"
+  },
+  {
+    "id": 18,
+    "name": "Ramen",
+    "uzname": "Lapsha",
+    "img": "/assets/images/categories/ramen.jpg"
+  },
+  {
+    "id": 19,
+    "name": "Dips",
+    "uzname": "Souslar",
+    "img": "/assets/images/categories/dips.jpg"
+  }
+]

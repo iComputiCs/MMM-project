@@ -1,0 +1,107 @@
+.material-symbols-outlined,
+.material-symbols-rounded,
+.material-symbols-sharp {
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 48;
+  cursor: pointer;
+}
+
+*,
+*::before,
+*::after {
+  padding: 0;
+  margin: 0;
+  position: relative;
+  box-sizing: border-box !important;
+  font-family: "Inter", "Century Gothic", sans-serif;
+  scroll-behavior: smooth !important;
+  transition: all 0.25s;
+  color: #000000;
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+h1,
+h2 {
+  font-family: "Playfair Display", "Century Gothic", sans-serif;
+}
+
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Inter", "Century Gothic", sans-serif;
+}
+
+::-moz-selection {
+  background-color: #ff642f;
+  color: white;
+}
+
+::selection {
+  background-color: #ff642f;
+  color: white;
+}
+
+/*For tags:*/
+a {
+  text-decoration: none;
+}
+
+button {
+  border: none;
+  outline: none;
+  padding: 10px 25px;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+img {
+  width: 100%;
+}
+
+*,
+*::before,
+*::after {
+  overflow-style: none;
+  scrollbar-width: none;
+}
+
+*::-webkit-scrollbar {
+  display: none;
+}
+
+body {
+  background-image: url("../images/bg.svg");
+  background-color: transparent;
+  background-size: 60px 60px !important;
+  background-repeat: repeat !important;
+}
+
+.page-enter-from {
+  opacity: 0.3;
+  transform: translateX(40px);
+}
+
+.page-enter-to,
+.page-leave-from {
+  opacity: 1;
+  transform: translateX(0px);
+}
+
+.page-leave-to {
+  opacity: 0;
+  transform: translateX(-20px);
+}
+
+.page-leave-active,
+.page-enter-active {
+  transition: all 0.5s ease !important;
+}/*# sourceMappingURL=main.css.map */

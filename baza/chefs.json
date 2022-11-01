@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "Andrea Piacquadio",
+    "img": "/assets/images/chefs/andrea-piacquadio.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Consus Uma Duffy",
+    "img": "/assets/images/chefs/consus-uma-duffy.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jurrien Olhof",
+    "img": "/assets/images/chefs/jurrien-olhof.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Miquel Ferran Gomez",
+    "img": "/assets/images/chefs/miquel-ferran-gomez.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Nonkosi Joyi",
+    "img": "/assets/images/chefs/nonkosi-joyi.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Pabio Combeiro",
+    "img": "/assets/images/chefs/pabio-combeiro.jpg"
+  }
+]
